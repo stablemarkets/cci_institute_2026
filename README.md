@@ -12,8 +12,8 @@ This course is heavily based on the following papers:
 
 Oganisian A, Roy JA. A practical introduction to Bayesian estimation of causal effects: Parametric and nonparametric approaches. Statistics in Medicine. 2021; 40: 518–551. https://doi.org/10.1002/sim.8761
 
-Oganisian, A., & Linero, A. (2025). Priors and Propensity Scores in Bayesian Causal Inference. Observational Studies 11(1), 47-59.
+Oganisian, A., & Linero, A. (2025). Priors and Propensity Scores in Bayesian Causal Inference. Observational Studies 11(1), 47-59. https://doi.org/10.1353/obs.2025.a956841
 
 Oganisian, A. (2026). Stress-Testing Assumptions: A Guide to Bayesian Sensitivity Analyses in Causal Inference. arXiv preprint arXiv:2602.23640. https://arxiv.org/abs/2602.23640
 
-Oganisian, A. (2026+). Untangling Sample and Population Level Estimands in Bayesian Causal Inference. Journal of Causal Inference (In Press).
+Oganisian, A. (2026+). Untangling Sample and Population Level Estimands in Bayesian Causal Inference. Journal of Causal Inference (In Press). https://arxiv.org/abs/2508.15016
